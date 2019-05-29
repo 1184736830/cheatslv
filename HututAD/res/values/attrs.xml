@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="RoundAngleImageView">
+        <attr name="popupTheme" format="dimension" />
+        <attr name="roundWidth" format="dimension" />
+        <attr name="roundHeight" format="dimension" />
+        <attr name="layout_behavior" format="dimension" />
+        <attr name="layout_constraintBottom_toBottomOf" format="dimension" />
+        <attr name="layout_constraintHorizontal_bias" format="dimension" />
+        <attr name="layout_constraintLeft_toLeftOf" format="dimension" />
+        <attr name="layout_constraintRight_toRightOf" format="dimension" />
+        <attr name="layout_constraintTop_toTopOf" format="dimension" />
+        <attr name="layout_constraintVertical_bias" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="CountdownCircleProgressBar">
+        <attr name="circleColor" format="color" />
+        <attr name="circleWith" format="dimension" />
+    </declare-styleable>
+
+</resources>
